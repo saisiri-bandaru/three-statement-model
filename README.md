@@ -4,8 +4,6 @@ Linked annual statements for a fictional company (**Northline Consumer Products*
 
 **File to open:** `Northline_Three_Statement_Model.xlsx`
 
-If that file is not in the repo yet, download it from the conversation and use **Add file → Upload files**.
-
 ## What you will see
 
 - Income statement (revenue through net income)
