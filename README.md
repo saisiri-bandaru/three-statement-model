@@ -2,7 +2,11 @@
 
 Linked annual statements for a fictional company (**Northline Consumer Products**).
 
-**File to open:** `Northline_Three_Statement_Model.xlsx`
+**Open this file:** [`Northline_Three_Statement_Model.xlsx`](Northline_Three_Statement_Model.xlsx)
+
+## Business question
+
+If revenue or capex moves, do cash and the balance sheet still tie — or are these three separate spreadsheets wearing a costume?
 
 ## What you will see
 
@@ -13,8 +17,16 @@ Linked annual statements for a fictional company (**Northline Consumer Products*
 
 Yellow cells = inputs. Black = formulas.
 
-## Why this belongs on an FP&A profile
+## What to change in a screen-share
 
-It shows the statements are not three separate files. Change revenue or capex and cash and the balance sheet should still tie.
+| Shock | Expected result |
+| --- | --- |
+| Raise revenue, hold working-capital days | Net income up; AR and cash both move; BS still balances |
+| Raise capex | Cash down, PP&E up, depreciation path changes in later years |
+| Stretch AR days | Cash conversion worsens; BS cash falls even if profit looks fine |
+
+If the cash check tab breaks after a shock, the model is not ready for a live case.
 
 All numbers are made up.
+
+[Profile](https://github.com/saisiri-bandaru) · [Portfolio](https://saisiri-bandaru.github.io)
